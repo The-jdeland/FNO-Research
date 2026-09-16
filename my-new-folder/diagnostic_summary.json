@@ -1,0 +1,9 @@
+{
+    "mean_test_relative_l2": 0.24525439739227295,
+    "median_test_relative_l2": 0.2316468209028244,
+    "std_test_relative_l2": 0.07745645195245743,
+    "minimum_test_relative_l2": 0.10860637575387955,
+    "maximum_test_relative_l2": 0.6280103921890259,
+    "checkpoint_epoch": 200,
+    "checkpoint_validation_error": 0.2435361156463623
+}
